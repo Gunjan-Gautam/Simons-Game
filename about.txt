@@ -1,0 +1,30 @@
+SIMON SAYS GAME - HOW TO PLAY
+
+Goal:
+Repeat the color sequence exactly as the game shows it. The sequence gets longer each round.
+
+How to start:
+1. Open the game page in your browser.
+2. Press any key (or use the Start action if your UI has one).
+3. Watch the first button that flashes.
+
+How to play:
+1. Click the same button that flashed.
+2. If correct, the game adds one more color to the sequence.
+3. Repeat the full sequence in the same order.
+4. Keep going as long as you can.
+
+Rules:
+- You must click buttons in the exact order.
+- One wrong click ends the game.
+- Your score is usually your highest level reached.
+
+Tips to get better:
+- Focus on rhythm: watch, then repeat.
+- Say color names in your head while watching.
+- Break long sequences into small chunks.
+- Stay calm and click at a steady pace.
+
+Game over:
+If you make a mistake, the game shows Game Over.
+Press any key again to restart and try to beat your best score.
